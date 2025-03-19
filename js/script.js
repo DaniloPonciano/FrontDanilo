@@ -111,8 +111,3 @@ function salvarUser() {
     });
 }
 
-function validarDataNascimento(){
-    const input = document.getElementById("birthdate");
-    const errorMessage = document.getElementById("error-message");
-    const today = new Date();
-}
